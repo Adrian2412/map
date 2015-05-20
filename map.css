@@ -22,7 +22,7 @@ ul#continents1, ul#continents2, ul#continents3 {
 	width: 580px;
 	height: 268px;
 	position: relative;
-	background: url(https://lh3.googleusercontent.com/SOjU0jN0r5qSiI2xjn6YzkGoqMBr8-SJ6aOmuEn7aqRkvc---FlRJrzHPElSzPiNwTjmqfTlm13LOQk=w1331-h685-rw) no-repeat 0 0;
+	background-image: url(https://lh3.googleusercontent.com/SOjU0jN0r5qSiI2xjn6YzkGoqMBr8-SJ6aOmuEn7aqRkvc---FlRJrzHPElSzPiNwTjmqfTlm13LOQk=w1331-h685-rw) no-repeat 0 0;
 }
 
 ul#continents1 li, ul#continents2 li, ul#continents3 li {
